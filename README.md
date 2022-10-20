@@ -3,7 +3,7 @@
 *by Beatriz Bogliani, MD Gazi, Lachlan Perris, Jonathon Leonard*
 
 ## Project overview
-The aim of this project is to track ocean current particles to and from large Crown-of-Thorn Starfish (COTS). We track the salinity of the surface water while tracking the ocean aprticles. The aim of this is to assess the Run-Off hypothesis that suggests COTS outbreaks occur when large rainfall events such as cyclones generate an abundance of nutrients that can lead to outbreaks. This hypothesis was challenged by Clements et al, who studied COTS resistance to salinity and suggest that the low-salinity plumes that accompany large run-off events are deleterious to COTS larvae. 
+The aim of this project is to track ocean current particles to and from large Crown-of-Thorn Starfish (COTS). We track the salinity of the surface water while tracking the ocean particles. The aim of this is to assess the Run-Off hypothesis that suggests COTS outbreaks occur when large rainfall events such as cyclones generate an abundance of nutrients that can lead to outbreaks. This hypothesis was challenged by Clements et al, who studied COTS resistance to salinity and suggest that the low-salinity plumes that accompany large run-off events are deleterious to COTS larvae. 
 
 Through consultation with Matthew Clements and Dr Maria Byrne, as well as our own research, we made the assumption that COTS larvae are spawned at reefs north of Cairns and take approximately 14-22 days to develop into starfish where they settle and move relatively little. Before this date, we assume that COTS lavae follow the ocean current close to the ocean surface. 
 
